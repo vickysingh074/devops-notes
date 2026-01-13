@@ -1,5 +1,7 @@
 # Git Authentication on Office Laptop
 
+**Tags:** #git #authentication #windows #corporate #security
+
 ## Problem
 Unable to push to personal GitHub repo from office laptop.
 Error:
