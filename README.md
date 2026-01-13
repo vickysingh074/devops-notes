@@ -1,2 +1,3 @@
-# devops-notes
-Nerdchitect DevOps knowledge base
+# Nerdchitect DevOps Notes 🧠🚀
+Personal knowledge base for DevOps, Kubernetes, Linux and Cloud engineering.
+
