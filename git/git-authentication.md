@@ -18,7 +18,7 @@ Use Personal Access Token and override remote URL locally.
 ### Commands
 git remote -v
 
-git remote set-url origin https://<username>:<TOKEN>@github.com/<username>/<repo>.git
+git remote set-url origin https://<USERNAME>:<TOKEN>@github.com/<USERNAME>/<REPO>.git
 
 git push
 
