@@ -1,7 +1,7 @@
 # 🛠️ Troubleshooting Index
 
 ## Git / SCM
-- [Git authentication conflict on office laptop](git-authentication.md)
+- [Git authentication conflict on office laptop](git/git-authentication.md)
 
 ## Kubernetes
 
