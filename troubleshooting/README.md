@@ -1,7 +1,8 @@
 # 🛠️ Troubleshooting Index
 
 ## Git / SCM
-- [Git authentication conflict on office laptop](git/git-authentication.md)
+- [Git authentication conflict on office laptop](git/office-laptop-auth-conflict.md)
+- [GitHub push blocked due to secret (Push Protection / GH013)](git/github-push-blocked-by-secret.md)
 
 ## Kubernetes
 - [Service not reachable from browser](kubernetes/networking/service-not-reachable.md)
